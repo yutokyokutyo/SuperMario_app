@@ -1,5 +1,1 @@
-# Ruby on Rails チュートリアル：サンプルアプリケーション
-
-これは、以下のためのサンプルアプリケーションです。
-[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
-by [Michael Hartl](http://michaelhartl.com/).
+#### スーパーマリオが好きな人は少ないかもだけど、嫌いな人も少ないはず
