@@ -1,7 +1,11 @@
-<% provide(:title, 'Home') %>
-<h1>Sample App</h1>
-<p>
+  <h1>Welcome to the SuperMario App</h1>
+
+  <h2>
     This is the home page for the
     <a href="http://railstutorial.jp/">Ruby on Rails Tutorial</a>
     sample application.
-</p>
+  </h2>
+
+  <%= link_to "Sign up now!", '#', class: "btn btn-large btn-primary" %>
+</div>
+<%= render 'shared/shuffle_image' %>
